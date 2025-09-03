@@ -1,3 +1,4 @@
 App Created
 
 Log in feature added. (By login-feature)
+New UI implemented. (By ui-updates)
