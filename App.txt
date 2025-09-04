@@ -6,3 +6,6 @@ New UI implemented. (By ui-updates)
 New Feature added.
 
 Main number 1
+
+Staged Data
+Unstaged Data
